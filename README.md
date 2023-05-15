@@ -5,6 +5,6 @@
 HTML
 
 + Explanation of Project
-This is a website written in HTML.
+This is a website I wrote in HTML.
 
 ```
